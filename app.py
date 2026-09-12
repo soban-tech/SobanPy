@@ -10,7 +10,7 @@ st.set_page_config(
 
 
 # Header
-st.title("🐍 SobanPy")
+st.title("SobanPy")
 st.caption("Python Error Detector & AI Explanation Tool")
 
 st.markdown("""
